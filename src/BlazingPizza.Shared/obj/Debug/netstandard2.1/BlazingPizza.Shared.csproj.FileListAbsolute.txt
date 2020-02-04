@@ -1,0 +1,11 @@
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\Users\Diretoria2018\Downloads\blazor-workshop-master\blazor-workshop-master\src\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
